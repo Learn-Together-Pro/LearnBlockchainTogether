@@ -15,8 +15,7 @@ Curated collection of lists of useful resources to learn Rust together.
 
 ( _course_ )
 
-- [Learn Blockhcain](https://www.youtube.com/playlist?list=PLyvfcZJ0pCaJyS3QDYm-P-aVc4ITd9ls1) with [TechnoDine](https://www.youtube.com/c/TechnoDine)
-- [Learn Blockhcain](https://www.youtube.com/playlist?list=PLyvfcZJ0pCaJyS3QDYm-P-aVc4ITd9ls1) with [TechnoDine](https://www.youtube.com/c/TechnoDine)
+- [Learn Blockhcain](https://www.youtube.com/playlist?list=PLyvfcZJ0pCaJyS3QDYm-P-aVc4ITd9ls1) by [TechnoDine](https://www.youtube.com/c/TechnoDine)
 
 <!-- ## Uniswap
 
