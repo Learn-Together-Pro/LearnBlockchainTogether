@@ -18,6 +18,8 @@ Curated collection of lists of useful resources to learn Rust together.
 - ( _advanced_ ) -- advanced level
 - ( _introductory_ ) -- introductory level
 - ( _domain:uniswap_ ) -- related to uniswap
+- ( _python_ ) -- contains Python code
+- ( _js_ ) -- contains JavaScript code
 
 ## General-purpose introductory full courses
 
@@ -27,26 +29,15 @@ Curated collection of lists of useful resources to learn Rust together.
 - [Learn Blockhchain](https://www.youtube.com/playlist?list=PLixm1arf_lEyKfbHakL7YNNpZNr7nzp2j) by [Lisk](https://www.youtube.com/c/LiskHQ) ( _video_ )
 - [Cryptography Course](https://www.youtube.com/playlist?list=PLE4V3KXzxPRQYUil17HB6XcIu-JMebD7n) by [Julian Hosp](https://www.youtube.com/c/JulianHospEnglish) ( _video_ )
 - [Intro to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) by [Georgia Tech](https://www.gatech.edu/) ( _video_ ) ( _reading_ ) ( _interactive_ ) ( _certificate_ )
+- [How To Build Your Own Blockchain](https://bigishdata.com/2017/10/17/write-your-own-blockchain-part-1-creating-storing-syncing-displaying-mining-and-proving-work/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/) ( _reading_ ) ( _python_ )
 
 ## Introductory articles
 
 ( _article_ ) ( _introductory_ )
 
 - [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) ( _video_ )
-
-
-## Tutorials
-
-( _tutorial_ )
-
-- [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) by [Daniel van Flymen](https://hackernoon.com/u/dvf) ( _article_ )
-- [A blockchain in 200 lines of code](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54) by [Lauri Hartikka](https://medium.com/@lhartikk) ( _article_ )
-- [How To Build Your Own Blockchain: Part 1. Storing, Syncing, Displaying, Mining And Proving Work](https://bigishdata.com/2017/10/17/write-your-own-blockchain-part-1-creating-storing-syncing-displaying-mining-and-proving-work/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/) ( _article_ )
-- [How To Build Your Own Blockchain: Part 2. Syncing Chains From Different Nodes](https://bigishdata.com/2017/10/27/build-your-own-blockchain-part-2-syncing-chains-from-different-nodes/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/) ( _article_ )
-- [How To Build Your Own Blockchain: Part 3. Writing Nodes That Mine](https://bigishdata.com/2017/11/02/build-your-own-blockchain-part-3-writing-nodes-that-mine/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/) ( _article_ )
-- [How To Build Your Own Blockchain: Part 4.1 Bitcoin Proof Of Work Difficulty Explained](https://bigishdata.com/2017/11/13/how-to-build-a-blockchain-part-4-1-bitcoin-proof-of-work-difficulty-explained/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/) ( _article_ )
-- [How To Build Your Own Blockchain: Part 4.2 Ethereum Proof Of Work Difficulty Explained](https://bigishdata.com/2017/11/21/how-to-build-your-own-blockchain-part-4-2-ethereum-proof-of-work-difficulty-explained/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/) ( _article_ )
-
+- [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) by [Daniel van Flymen](https://hackernoon.com/u/dvf) ( _reading_ ) ( _python_ )
+- [A blockchain in 200 lines of code](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54) by [Lauri Hartikka](https://medium.com/@lhartikk) ( _reading_ ) ( _js_ )
 
 ## Lists
 
