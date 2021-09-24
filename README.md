@@ -4,8 +4,6 @@ Curated collection of lists of useful resources to learn Rust together.
 
 ## Content
 
-- [ Uniswap ](#uniswap)
-
 ## Tags legend
 
 - ( _non-eng_ ) -- non-english language
