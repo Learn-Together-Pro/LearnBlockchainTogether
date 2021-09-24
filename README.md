@@ -40,11 +40,12 @@ Curated collection of lists of useful resources to learn Rust together.
 ( _tutorial_ )
 
 - [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) by [Daniel van Flymen](https://hackernoon.com/u/dvf) ( _article_ )
-- [How To Build Your Own Blockchain: Part 1. Storing, Syncing, Displaying, Mining And Proving Work](https://bigishdata.com/2017/10/17/write-your-own-blockchain-part-1-creating-storing-syncing-displaying-mining-and-proving-work/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/)
-- [How To Build Your Own Blockchain: Part 2. Syncing Chains From Different Nodes](https://bigishdata.com/2017/10/27/build-your-own-blockchain-part-2-syncing-chains-from-different-nodes/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/)
-- [How To Build Your Own Blockchain: Part 3. Writing Nodes That Mine](https://bigishdata.com/2017/11/02/build-your-own-blockchain-part-3-writing-nodes-that-mine/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/)
-- [How To Build Your Own Blockchain: Part 4.1 Bitcoin Proof Of Work Difficulty Explained](https://bigishdata.com/2017/11/13/how-to-build-a-blockchain-part-4-1-bitcoin-proof-of-work-difficulty-explained/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/)
-- [How To Build Your Own Blockchain: Part 4.2 Ethereum Proof Of Work Difficulty Explained](https://bigishdata.com/2017/11/21/how-to-build-your-own-blockchain-part-4-2-ethereum-proof-of-work-difficulty-explained/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/)
+- [A blockchain in 200 lines of code](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54) by [Lauri Hartikka](https://medium.com/@lhartikk) ( _article_ )
+- [How To Build Your Own Blockchain: Part 1. Storing, Syncing, Displaying, Mining And Proving Work](https://bigishdata.com/2017/10/17/write-your-own-blockchain-part-1-creating-storing-syncing-displaying-mining-and-proving-work/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/) ( _article_ )
+- [How To Build Your Own Blockchain: Part 2. Syncing Chains From Different Nodes](https://bigishdata.com/2017/10/27/build-your-own-blockchain-part-2-syncing-chains-from-different-nodes/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/) ( _article_ )
+- [How To Build Your Own Blockchain: Part 3. Writing Nodes That Mine](https://bigishdata.com/2017/11/02/build-your-own-blockchain-part-3-writing-nodes-that-mine/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/) ( _article_ )
+- [How To Build Your Own Blockchain: Part 4.1 Bitcoin Proof Of Work Difficulty Explained](https://bigishdata.com/2017/11/13/how-to-build-a-blockchain-part-4-1-bitcoin-proof-of-work-difficulty-explained/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/) ( _article_ )
+- [How To Build Your Own Blockchain: Part 4.2 Ethereum Proof Of Work Difficulty Explained](https://bigishdata.com/2017/11/21/how-to-build-your-own-blockchain-part-4-2-ethereum-proof-of-work-difficulty-explained/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/) ( _article_ )
 
 
 ## Lists
@@ -55,10 +56,8 @@ Curated collection of lists of useful resources to learn Rust together.
 - [A Curated List of Blockchain and General Cryptocurrency Resources](https://github.com/coderplex-org/awesome-blockchain) by [Coderplex Foundation](https://github.com/coderplex-org)
 - [Awesome Blockchain for Developers](https://github.com/Jeiwan/awesome-blockchain) by [Jeiwan](https://github.com/Jeiwan)
 - [A collection about awesome blockchains - open distributed databases w/ crypto hashes incl. git](https://github.com/openblockchains/awesome-blockchains) by [Jeiwan](https://github.com/openblockchains)
-
-
 - [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path) by [ProtoFire](https://github.com/protofire)
-
+- [A curated list of Blockchain and Cryptocurrency Technologies visualisation](https://github.com/xpfio/awesome-blockchain-visualisation) by [xpfio](https://github.com/xpfio)
 
 <!-- ## Uniswap
 
