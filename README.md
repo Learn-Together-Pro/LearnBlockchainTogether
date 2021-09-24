@@ -39,6 +39,7 @@ Curated collection of lists of useful resources to learn Rust together.
 - [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) ( _video_ )
 - [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) by [Daniel van Flymen](https://hackernoon.com/u/dvf) ( _reading_ ) ( _python_ )
 - [A blockchain in 200 lines of code](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54) by [Lauri Hartikka](https://medium.com/@lhartikk) ( _reading_ ) ( _js_ )
+- [WTF is The Blockchain?](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348) by [Mohit Mamoria](https://hackernoon.com/u/mohitmamoria) ( _reading_ )
 
 ## Lists
 
