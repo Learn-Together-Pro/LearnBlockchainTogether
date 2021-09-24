@@ -20,6 +20,7 @@ Curated collection of lists of useful resources to learn Rust together.
 - ( _domain:uniswap_ ) -- related to uniswap
 - ( _python_ ) -- contains Python code
 - ( _js_ ) -- contains JavaScript code
+- ( _framework_ ) -- material is related to certain framework
 
 ## General-purpose introductory full courses
 
@@ -49,6 +50,11 @@ Curated collection of lists of useful resources to learn Rust together.
 - [A collection about awesome blockchains - open distributed databases w/ crypto hashes incl. git](https://github.com/openblockchains/awesome-blockchains) by [Jeiwan](https://github.com/openblockchains)
 - [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path) by [ProtoFire](https://github.com/protofire)
 - [A curated list of Blockchain and Cryptocurrency Technologies visualisation](https://github.com/xpfio/awesome-blockchain-visualisation) by [xpfio](https://github.com/xpfio)
+- [Curated list of blockchain services, especially focused on decentralized exchange protocol](https://github.com/hitripod/awesome-blockchain) by [Kordan Ou](https://github.com/hitripod/)
+- [A list of crypto readings and resources](https://a16z.com/2018/02/10/crypto-readings-resources/) by [a16z](https://a16z.com/)
+- [Blockchain and Identity](https://github.com/peacekeeper/blockchain-identity) by [Markus Sabadello](https://github.com/peacekeeper/)
+- [Awesome Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) by [Machinomy](https://github.com/machinomy)
+- [Awesome Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) by [Substrate Developer Hub](https://github.com/substrate-developer-hub) ( _framework_ )
 
 <!-- ## Uniswap
 
