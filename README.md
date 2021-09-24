@@ -22,7 +22,7 @@ Curated collection of lists of useful resources to learn Rust together.
 
 ( _article_ )
 
-- [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) ( _video_ )
 
 <!-- ## Uniswap
 
