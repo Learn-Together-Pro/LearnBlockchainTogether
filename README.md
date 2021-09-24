@@ -25,15 +25,36 @@ Curated collection of lists of useful resources to learn Rust together.
 - [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) ( _video_ )
 
 
+## Tutorials
+
+( _tutorial_ )
+
+- [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) by [Daniel van Flymen](https://hackernoon.com/u/dvf) ( _article_ )
+- [How To Build Your Own Blockchain: Part 1. Storing, Syncing, Displaying, Mining And Proving Work](https://bigishdata.com/2017/10/17/write-your-own-blockchain-part-1-creating-storing-syncing-displaying-mining-and-proving-work/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/)
+- [How To Build Your Own Blockchain: Part 2. Syncing Chains From Different Nodes](https://bigishdata.com/2017/10/27/build-your-own-blockchain-part-2-syncing-chains-from-different-nodes/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/)
+- [How To Build Your Own Blockchain: Part 3. Writing Nodes That Mine](https://bigishdata.com/2017/11/02/build-your-own-blockchain-part-3-writing-nodes-that-mine/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/)
+- [How To Build Your Own Blockchain: Part 4.1 Bitcoin Proof Of Work Difficulty Explained](https://bigishdata.com/2017/11/13/how-to-build-a-blockchain-part-4-1-bitcoin-proof-of-work-difficulty-explained/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/)
+- [How To Build Your Own Blockchain: Part 4.2 Ethereum Proof Of Work Difficulty Explained](https://bigishdata.com/2017/11/21/how-to-build-your-own-blockchain-part-4-2-ethereum-proof-of-work-difficulty-explained/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/)
+
+
 ## Lists
 
 ( _list_ )
 
 - [Curated list of resources for the development and applications of block chain](https://github.com/yjjnls/awesome-blockchain) by [yjjnls](https://github.com/yjjnls)
 - [A Curated List of Blockchain and General Cryptocurrency Resources](https://github.com/coderplex-org/awesome-blockchain) by [Coderplex Foundation](https://github.com/coderplex-org)
+- [Awesome Blockchain for Developers](https://github.com/Jeiwan/awesome-blockchain) by [Jeiwan](https://github.com/Jeiwan)
+- [A collection about awesome blockchains - open distributed databases w/ crypto hashes incl. git](https://github.com/openblockchains/awesome-blockchains) by [Jeiwan](https://github.com/openblockchains)
+
+
+- [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path) by [ProtoFire](https://github.com/protofire)
+
 
 <!-- ## Uniswap
 
 ( _domain:uniswap_ )
 
 - [Uniswap V3 is COMING](https://www.youtube.com/watch?v=4CJEGVBcPGQ) by [Erik Zivkovic](https://www.youtube.com/channel/UCqK_GSMbpiV8spgD3ZGloSw) ( _vide_ ) ( _article_ ) -->
+
+
+
