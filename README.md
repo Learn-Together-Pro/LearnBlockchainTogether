@@ -1,5 +1,7 @@
 # Learn Blockchain Together
 
+![Rust](./asset/application_of_blockchain_2.png)
+
 Curated collection of lists of useful mostly free resources to learn Blockchain together.
 
 ## Content
@@ -34,7 +36,7 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 ( _course_ ) ( _introductory_ ) ( _technical_ )
 
 - :star: [Learn Blockhchain](https://www.youtube.com/playlist?list=PLyvfcZJ0pCaJyS3QDYm-P-aVc4ITd9ls1) by [TechnoDine](https://www.youtube.com/c/TechnoDine) ( _video_ ) ( _theoretical_ )
-- :star: [Cryptography](https://www.practicalnetworking.net/series/cryptography/cryptography/) by [practicalnetworking.net](https://www.practicalnetworking.net/)  ( _reading_ ) ( _course_ ) ( _introductory_ ) ( _theoretical_ )
+- :star: [Cryptography](https://www.practicalnetworking.net/series/cryptography/cryptography/) by [practicalnetworking.net](https://www.practicalnetworking.net/)  ( _reading_ ) ( _course_ ) ( _theoretical_ )
 - [Cryptography Course](https://www.youtube.com/playlist?list=PLE4V3KXzxPRQYUil17HB6XcIu-JMebD7n) by [Julian Hosp](https://www.youtube.com/c/JulianHospEnglish) ( _video_ ) ( _theoretical_ )
 - :star: [DeFi Programming Course](https://www.youtube.com/playlist?list=PLbbtODcOYIoGC8c5-gs0EYzpYVUPdmqO3) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks) ( _video_ ) ( _practical_ )
 - :star: [Web3 Tutorial](https://www.youtube.com/playlist?list=PLbbtODcOYIoFs0PDlTdxpEsZiyDR2q9aA) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks) ( _video_ ) ( _practical_ )
