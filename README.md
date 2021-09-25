@@ -20,6 +20,7 @@ Curated collection of lists of useful resources to learn Rust together.
 - ( _domain:uniswap_ ) -- related to uniswap
 - ( _python_ ) -- contains Python code
 - ( _js_ ) -- contains JavaScript code
+- ( _java_ ) -- contains Java code
 - ( _framework_ ) -- material is related to certain framework
 
 ## General-purpose introductory full courses
@@ -31,6 +32,11 @@ Curated collection of lists of useful resources to learn Rust together.
 - [Cryptography Course](https://www.youtube.com/playlist?list=PLE4V3KXzxPRQYUil17HB6XcIu-JMebD7n) by [Julian Hosp](https://www.youtube.com/c/JulianHospEnglish) ( _video_ )
 - [Intro to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) by [Georgia Tech](https://www.gatech.edu/) ( _video_ ) ( _reading_ ) ( _interactive_ ) ( _certificate_ )
 - [How To Build Your Own Blockchain](https://bigishdata.com/2017/10/17/write-your-own-blockchain-part-1-creating-storing-syncing-displaying-mining-and-proving-work/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/) ( _reading_ ) ( _python_ )
+- [Blockchain and Bitcoin Fundamentals](https://www.udemy.com/course/blockchain-and-bitcoin-fundamentals/) by [George Levy](https://www.udemy.com/course/blockchain-and-bitcoin-fundamentals/#instructor-1) ( _video_ ) ( _reading_ ) ( _interactive_ ) ( _certificate_ )
+- [Blockchain Technology: A Guide To The Blockchain Ecosystem](https://www.udemy.com/course/blockchain/) by [Ravinder Deol](https://www.udemy.com/course/blockchain/#instructor-1) ( _video_ ) ( _reading_ ) ( _interactive_ ) ( _certificate_ )
+- [Creating Your First Blockchain with Java]() by [Kass](https://medium.com/@cryptokass) ( _reading_ ) ( _java_ )
+
+
 
 ## Introductory articles
 
@@ -40,6 +46,9 @@ Curated collection of lists of useful resources to learn Rust together.
 - [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) by [Daniel van Flymen](https://hackernoon.com/u/dvf) ( _reading_ ) ( _python_ )
 - [A blockchain in 200 lines of code](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54) by [Lauri Hartikka](https://medium.com/@lhartikk) ( _reading_ ) ( _js_ )
 - [WTF is The Blockchain?](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348) by [Mohit Mamoria](https://hackernoon.com/u/mohitmamoria) ( _reading_ )
+- [Blockchain for 2018 and Beyond: A (growing) list of blockchain use cases](https://medium.com/fluree/blockchain-for-2018-and-beyond-a-growing-list-of-blockchain-use-cases-37db7c19fb99) by [Kevin Doubleday](https://medium.com/@kdoubleday) ( _reading_ )
+- [Bitcoin - Proof of work](https://www.youtube.com/watch?v=9V1bipPkCTU) by [Khan Academy](https://www.youtube.com/c/khanacademy) ( _video_ )
+- [Bitcoin - Cryptographic hash function](https://www.youtube.com/watch?v=0WiTaBI82Mc) by [Khan Academy](https://www.youtube.com/c/khanacademy) ( _video_ )
 
 ## Lists
 
