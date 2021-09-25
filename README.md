@@ -30,6 +30,7 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 - ( _js_ ) -- contains JavaScript code
 - ( _java_ ) -- contains Java code
 - ( _framework_ ) -- material is related to certain framework
+- ( _book_ ) -- a book
 
 ## General-purpose technical introductory courses
 
@@ -83,6 +84,10 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 - [Creating Your First Blockchain with Java]() by [Kass](https://medium.com/@cryptokass) ( _reading_ ) ( _course_ ) ( _java_ )
 - [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) by [Daniel van Flymen](https://hackernoon.com/u/dvf) ( _reading_ ) ( _article_ ) ( _python_ )
 - [A blockchain in 200 lines of code](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54) by [Lauri Hartikka](https://medium.com/@lhartikk) ( _reading_ ) ( _article_ ) ( _js_ )
+- [Code Your Own Cryptocurrency on Ethereum](https://www.youtube.com/playlist?list=PLS5SEs8ZftgWFuKg2wbm_0GLV0Tiy1R-n) by [Dapp University](https://www.youtube.com/c/DappUniversity) ( _video_ ) ( _course_ ) ( _practical_ )
+- [Beginner Blockchain Tutorial For Developers](https://www.youtube.com/playlist?list=PLS5SEs8ZftgXDYtXZIhYBl18frMt2yWZW) by [Dapp University](https://www.youtube.com/c/DappUniversity) ( _video_ ) ( _course_ ) ( _practical_ )
+- [Solidity for Beginners](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu) by [Dapp University](https://www.youtube.com/c/DappUniversity) ( _video_ ) ( _course_ ) ( _practical_ )
+- [Blockchain Developer Tutorials](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUTXs0OJD2LFpYBPr4L54id) by [Dapp University](https://www.youtube.com/c/DappUniversity) ( _video_ ) ( _course_ ) ( _practical_ )
 
 <!-- ## Consensus
 
@@ -114,6 +119,24 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 - [Blockchain and Identity](https://github.com/peacekeeper/blockchain-identity) by [Markus Sabadello](https://github.com/peacekeeper/)
 - [Awesome Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) by [Machinomy](https://github.com/machinomy)
 <!-- - [Awesome Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) by [Substrate Developer Hub](https://github.com/substrate-developer-hub) ( _framework_ ) qqq : ? -->
+
+## Books
+
+( _book_ ) ( _reading_ )
+
+- :blue_book: [Attack of the 50 Foot Blockchain: Bitcoin, Blockchain, Ethereum & Smart Contracts](https://davidgerard.co.uk/blockchain/table-of-contents/) by [David Gerard](https://davidgerard.co.uk/)
+- :blue_book: [Mastering Bitcoin - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch09.asciidoc) by [Andreas M. Antonopoulos](https://github.com/bitcoinbook/)
+- :blue_book: [Programming Blockchains in Ruby from Scratch Step-by-Step Starting w/ Crypto Hashes... ](https://github.com/yukimotopress/programming-blockchains-step-by-step) by [Gerald Bauer](https://github.com/geraldb)
+- :blue_book: [Programming Cryptocurrencies and Blockchains in Ruby ( Beta / Rough Draft )](http://yukimotopress.github.io/blockchains) by [Gerald Bauer](https://github.com/geraldb)
+- :blue_book: [Blockchain for Dummies, IBM Limited Edition](https://www.ibm.com/blockchain/what-is-blockchain.html) by [Manav Gupta](https://twitter.com/g_manav)
+- :blue_book: [Mastering Ethereum - Building Contract Services and Decentralized Apps on the Blockchain](https://github.com/ethereumbook/ethereumbook) by [Andreas M. Antonopoulos](https://ethereumbook.info/)
+- :blue_book: [Building Decentralized Apps on the Ethereum Blockchain](https://www.manning.com/books/building-ethereum-dapps) by [Roberto Infante](https://www.amazon.com/Roberto-Infante/e/B07PG576SR%3Fref=dbs_a_mng_rwt_scns_share)
+- :blue_book: [Blockchain in Action](https://www.manning.com/books/blockchain-in-action) by [Bina Ramamurthy](https://www.amazon.com/Bina-Ramamurthy/e/B08JQN7FDH%3Fref=dbs_a_mng_rwt_scns_share)
+- :blue_book: [Permissioned Blockchains in Action](https://livebook.manning.com/book/permissioned-blockchains-in-action/welcome/v-6/) by [Mansoor Ahmed-Rengers](https://github.com/Mansoor-AR)
+- :blue_book: [Programming Hyperledger Fabric](https://www.amazon.com/dp/0578802228) by [Siddharth Jain](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=SIDDHARTH+JAIN&text=SIDDHARTH+JAIN&sort=relevancerank&search-alias=books)
+
+
+
 
 <!-- ## Uniswap
 
