@@ -83,6 +83,10 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 - [Creating Your First Blockchain with Java]() by [Kass](https://medium.com/@cryptokass) ( _reading_ ) ( _course_ ) ( _java_ )
 - [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) by [Daniel van Flymen](https://hackernoon.com/u/dvf) ( _reading_ ) ( _article_ ) ( _python_ )
 - [A blockchain in 200 lines of code](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54) by [Lauri Hartikka](https://medium.com/@lhartikk) ( _reading_ ) ( _article_ ) ( _js_ )
+- [Code Your Own Cryptocurrency on Ethereum](https://www.youtube.com/playlist?list=PLS5SEs8ZftgWFuKg2wbm_0GLV0Tiy1R-n) by [Dapp University](https://www.youtube.com/c/DappUniversity) ( _video_ ) ( _course_ ) ( _practical_ )
+- [Beginner Blockchain Tutorial For Developers](https://www.youtube.com/playlist?list=PLS5SEs8ZftgXDYtXZIhYBl18frMt2yWZW) by [Dapp University](https://www.youtube.com/c/DappUniversity) ( _video_ ) ( _course_ ) ( _practical_ )
+- [Solidity for Beginners](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu) by [Dapp University](https://www.youtube.com/c/DappUniversity) ( _video_ ) ( _course_ ) ( _practical_ )
+- [Blockchain Developer Tutorials](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUTXs0OJD2LFpYBPr4L54id) by [Dapp University](https://www.youtube.com/c/DappUniversity) ( _video_ ) ( _course_ ) ( _practical_ )
 
 <!-- ## Consensus
 
