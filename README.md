@@ -30,6 +30,7 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 - ( _js_ ) -- contains JavaScript code
 - ( _java_ ) -- contains Java code
 - ( _framework_ ) -- material is related to certain framework
+- ( _book_ ) -- a book
 
 ## General-purpose technical introductory courses
 
@@ -121,6 +122,7 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 
 ## Books
 
+( _book_ ) ( _reading_ )
 
 - :blue_book: [Attack of the 50 Foot Blockchain: Bitcoin, Blockchain, Ethereum & Smart Contracts](https://davidgerard.co.uk/blockchain/table-of-contents/) by [David Gerard](https://davidgerard.co.uk/)
 - :blue_book: [Mastering Bitcoin - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch09.asciidoc) by [Andreas M. Antonopoulos](https://github.com/bitcoinbook/)
