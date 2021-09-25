@@ -39,8 +39,8 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 - :star: [Cryptography](https://www.practicalnetworking.net/series/cryptography/cryptography/) by [practicalnetworking.net](https://www.practicalnetworking.net/)  ( _reading_ ) ( _course_ ) ( _theoretical_ )
 - [Cryptography Course](https://www.youtube.com/playlist?list=PLE4V3KXzxPRQYUil17HB6XcIu-JMebD7n) by [Julian Hosp](https://www.youtube.com/c/JulianHospEnglish) ( _video_ ) ( _theoretical_ )
 - :star: [DeFi Programming Course](https://www.youtube.com/playlist?list=PLbbtODcOYIoGC8c5-gs0EYzpYVUPdmqO3) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks) ( _video_ ) ( _practical_ )
-- :star: [Web3 Tutorial](https://www.youtube.com/playlist?list=PLbbtODcOYIoFs0PDlTdxpEsZiyDR2q9aA) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks) ( _video_ ) ( _practical_ )
-- :star: [Solidity Tutorial](https://www.youtube.com/playlist?list=PLbbtODcOYIoE0D6fschNU4rqtGFRpk3ea) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks) ( _video_ ) ( _practical_ )
+- [Web3 Tutorial](https://www.youtube.com/playlist?list=PLbbtODcOYIoFs0PDlTdxpEsZiyDR2q9aA) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks) ( _video_ ) ( _practical_ )
+- [Solidity Tutorial](https://www.youtube.com/playlist?list=PLbbtODcOYIoE0D6fschNU4rqtGFRpk3ea) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks) ( _video_ ) ( _practical_ )
 
 ## Courses with certification
 
