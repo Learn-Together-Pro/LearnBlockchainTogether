@@ -64,6 +64,10 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 - :star: [Blockchain career advice](https://www.youtube.com/playlist?list=PLbbtODcOYIoHRL3rH6JjqxaqcjQ0uwe9e) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks) ( _video_ ) ( _practical_ )
 - [Blockchain Технологии](https://www.youtube.com/playlist?list=PLMPkGmaSnfyqvwI0Up4uaq48UQ4mnzlPj) by [CryptoInside](https://www.youtube.com/c/CryptoInsideClub) ( _video_ ) ( _theoretical_ ) ( _non-eng_ )
 - [Погружение в крипту за 7 дней](https://www.youtube.com/playlist?list=PLsJDzAldPQJSNRfN3RKEf4GDcpnDksnIP) by [Incrypted](https://www.youtube.com/c/Incryptednet) ( _video_ ) ( _non-technical_ )
+- [Online-курс по Blockchain](https://www.youtube.com/watch?v=WBf8FZjPPqw&list=PLhZQuknA7yUBt82ow8rEfw_G8tNZjt3qB) by [Distributed Lab](https://www.youtube.com/channel/UCAKVZKVgINgKAwmAeyojMaw) ( _video_ ) ( _non-technical_ )
+- [Курс по Блокчейн](https://www.youtube.com/watch?v=p1tWUCSQNf0&list=PLys0IdlMg6XdMv4sP3UyGBovR5WhQqaM4) by [МФТИ](https://www.youtube.com/channel/UCZ-sv20iKVXtQVR4epbmz8A) ( _video_ ) ( _non-technical_ ) ( _technical_ )
+- [Blockchain and Money](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/index.htm) by [MIT](https://ocw.mit.edu/) ( _video_ ) ( _non-technical_ )
+- [Blockchain and Money - русская озвучка](https://www.youtube.com/watch?v=pZxp--SpWF8&list=PLDTlYmDW7oIgx1WrpkEAkrQVF-hvdConK) by [MIT - Cryptus](https://www.youtube.com/channel/UCGzOtu1tlrOeq_-jXzV-Fng) ( _video_ ) ( _non-technical_ ) ( _technical_ )
 
 ## Introductory articles
 
@@ -101,6 +105,7 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 
 - :star: [Cryptography](https://www.practicalnetworking.net/series/cryptography/cryptography/) by [practicalnetworking.net](https://www.practicalnetworking.net/)  ( _reading_ ) ( _course_ ) ( _introductory_ ) ( _technical_ )
 - [Cryptography Course](https://www.youtube.com/playlist?list=PLE4V3KXzxPRQYUil17HB6XcIu-JMebD7n) by [Julian Hosp](https://www.youtube.com/c/JulianHospEnglish) ( _video_ ) ( _course_ ) ( _introductory_ ) ( _technical_ )
+- [Introduction to Cryptography](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/featured) by [Christof Paar](https://www.emsec.ruhr-uni-bochum.de/chair/_staff/christof-paar/) ( _video_ ) ( _course_ ) ( _introductory_ ) ( _technical_ )
 
 <!-- - [Bitcoin - Cryptographic hash function](https://www.youtube.com/watch?v=0WiTaBI82Mc) by [Khan Academy](https://www.youtube.com/c/khanacademy) ( _video_ ) ( _article_ ) ( _introductory_ ) qqq : ? -->
 
