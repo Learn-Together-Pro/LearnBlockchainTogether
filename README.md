@@ -29,6 +29,7 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 - ( _python_ ) -- contains Python code
 - ( _js_ ) -- contains JavaScript code
 - ( _java_ ) -- contains Java code
+- ( _go-lang_ ) -- contains Go code
 - ( _framework_ ) -- material is related to certain framework
 - ( _book_ ) -- a book
 
@@ -87,11 +88,14 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 - [How To Build Your Own Blockchain](https://bigishdata.com/2017/10/17/write-your-own-blockchain-part-1-creating-storing-syncing-displaying-mining-and-proving-work/) by [Jack Schultz](https://bigishdata.com/author/jackschultz23/) ( _reading_ ) ( _course_ ) ( _python_ )
 - [Creating Your First Blockchain with Java]() by [Kass](https://medium.com/@cryptokass) ( _reading_ ) ( _course_ ) ( _java_ )
 - [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) by [Daniel van Flymen](https://hackernoon.com/u/dvf) ( _reading_ ) ( _article_ ) ( _python_ )
+- [A Practical Introduction to Blockchain](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/) by [Adil Moujahid](http://adilmoujahid.com/) ( _reading_ ) ( _article_ ) ( _practical_ ) ( _python_ )
 - [A blockchain in 200 lines of code](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54) by [Lauri Hartikka](https://medium.com/@lhartikk) ( _reading_ ) ( _article_ ) ( _js_ )
+- [Building a blockchain with Javascript](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4) by [Simply Explained](https://www.youtube.com/c/Savjee) ( _video_ ) ( _course_ ) ( _practical_ ) ( _js_ )
 - [Code Your Own Cryptocurrency on Ethereum](https://www.youtube.com/playlist?list=PLS5SEs8ZftgWFuKg2wbm_0GLV0Tiy1R-n) by [Dapp University](https://www.youtube.com/c/DappUniversity) ( _video_ ) ( _course_ ) ( _practical_ )
 - [Beginner Blockchain Tutorial For Developers](https://www.youtube.com/playlist?list=PLS5SEs8ZftgXDYtXZIhYBl18frMt2yWZW) by [Dapp University](https://www.youtube.com/c/DappUniversity) ( _video_ ) ( _course_ ) ( _practical_ )
 - [Solidity for Beginners](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu) by [Dapp University](https://www.youtube.com/c/DappUniversity) ( _video_ ) ( _course_ ) ( _practical_ )
 - [Blockchain Developer Tutorials](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUTXs0OJD2LFpYBPr4L54id) by [Dapp University](https://www.youtube.com/c/DappUniversity) ( _video_ ) ( _course_ ) ( _practical_ )
+- [Building Blockchain in Go](https://github.com/Jeiwan/blockchain_go) by [Ivan Kuznetsov](https://github.com/jeiwan) ( _reading_ ) ( _course_ ) ( _practical_ ) ( _go-lang_ )
 
 <!-- ## Consensus
 
@@ -123,6 +127,7 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 - [A list of crypto readings and resources](https://a16z.com/2018/02/10/crypto-readings-resources/) by [a16z](https://a16z.com/)
 - [Blockchain and Identity](https://github.com/peacekeeper/blockchain-identity) by [Markus Sabadello](https://github.com/peacekeeper/)
 - [Awesome Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) by [Machinomy](https://github.com/machinomy)
+- :books: [Awesome Blockchain Books](https://github.com/BlockchainBooks/blockchainbooks.github.io) by [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
 <!-- - [Awesome Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) by [Substrate Developer Hub](https://github.com/substrate-developer-hub) ( _framework_ ) qqq : ? -->
 
 ## Books
