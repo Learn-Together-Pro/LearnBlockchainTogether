@@ -127,7 +127,7 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 - [A list of crypto readings and resources](https://a16z.com/2018/02/10/crypto-readings-resources/) by [a16z](https://a16z.com/)
 - [Blockchain and Identity](https://github.com/peacekeeper/blockchain-identity) by [Markus Sabadello](https://github.com/peacekeeper/)
 - [Awesome Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) by [Machinomy](https://github.com/machinomy)
-- :blue_book: [Awesome Blockchain Books](https://github.com/BlockchainBooks/blockchainbooks.github.io) by [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
+- :books: [Awesome Blockchain Books](https://github.com/BlockchainBooks/blockchainbooks.github.io) by [Shubham Tatvamasi](https://github.com/ShubhamTatvamasi)
 <!-- - [Awesome Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) by [Substrate Developer Hub](https://github.com/substrate-developer-hub) ( _framework_ ) qqq : ? -->
 
 ## Books
