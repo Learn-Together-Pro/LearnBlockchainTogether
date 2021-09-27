@@ -6,6 +6,16 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 
 ## Content
 
+- [ Tags legend ](#tags-legend)
+- [ General-purpose technical introductory courses ](#general-purpose-technical-introductory-courses)
+- [ Courses with certification ](#courses-with-certification)
+- [ General-purpose non-technical introductory courses ](#general-purpose-non-technical-introductory-courses)
+- [ Introductory articles ](#introductory-articles)
+- [ Build your own Blockchain ](#build-your-own-blockchain)
+- [ Cryptography ](#cryptography)
+- [ Books ](#books)
+- [ Lists ](#lists)
+
 ## Tags legend
 
 - ( _course_ ) -- consists of series of text/video articles trying to give to a reader solid foundation
