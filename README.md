@@ -53,6 +53,10 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 - :star: [DeFi Programming Course](https://www.youtube.com/playlist?list=PLbbtODcOYIoGC8c5-gs0EYzpYVUPdmqO3) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks) ( _video_ ) ( _practical_ )
 - [Web3 Tutorial](https://www.youtube.com/playlist?list=PLbbtODcOYIoFs0PDlTdxpEsZiyDR2q9aA) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks) ( _video_ ) ( _practical_ )
 - [Solidity Tutorial](https://www.youtube.com/playlist?list=PLbbtODcOYIoE0D6fschNU4rqtGFRpk3ea) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks) ( _video_ ) ( _practical_ )
+- [Online-курс по Blockchain](https://www.youtube.com/playlist?list=PLhZQuknA7yUBt82ow8rEfw_G8tNZjt3qB) by [Distributed Lab](https://www.youtube.com/channel/UCAKVZKVgINgKAwmAeyojMaw) ( _video_ ) ( _non-eng_ )
+- [Курс по Блокчейн](https://www.youtube.com/playlist?list=PLys0IdlMg6XdMv4sP3UyGBovR5WhQqaM4) by [МФТИ](https://www.youtube.com/channel/UCZ-sv20iKVXtQVR4epbmz8A) ( _video_ ) ( _non-eng_ )
+- [Blockchain and Money](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/index.htm) by [MIT](https://ocw.mit.edu/) ( _video_ )
+- [Blockchain and Money - русская озвучка](https://www.youtube.com/playlist?list=PLDTlYmDW7oIgx1WrpkEAkrQVF-hvdConK) by [MIT - Cryptus](https://www.youtube.com/channel/UCGzOtu1tlrOeq_-jXzV-Fng) ( _video_ ) ( _non-eng_ )
 
 ## Courses with certification
 
@@ -69,16 +73,12 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 - [Blockchain & Cryptocurrency](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiQF_5bEErheiAawrJ-2zQoI) by [Simply Explained](https://www.youtube.com/c/Savjee) ( _video_ ) ( _theoretical_ )
 - [Crypto](https://www.youtube.com/playlist?list=PLjrTIwaNiTwmsCrO38BWYVrQFCv9GJ1pt) by [Finematics](https://www.youtube.com/c/Finematics) ( _video_ ) ( _theoretical_ )
 - [Learn Blockhchain](https://www.youtube.com/playlist?list=PLixm1arf_lEyKfbHakL7YNNpZNr7nzp2j) by [Lisk](https://www.youtube.com/c/LiskHQ) ( _video_ ) ( _theoretical_ )
-- [Educational Guides](https://www.youtube.com/playlist?list=PLk1ALX7IOH_npyk1W_88gxTDpTEfZg_Og) by [Coin Bureau](https://www.youtube.com/c/CoinBureau) ( _video_ ) ( _non-technical_ )
-- [The Complete Beginner's Crypto Crash Course](https://www.youtube.com/playlist?list=PLU52pNodXIGdM6XDgHVG7DsPytlsrR_6b) by [99Bitcoins](https://www.youtube.com/c/Bitcoinwithpaypal) ( _video_ ) ( _non-technical_ )
-- [Blockchain & Crypto 101](https://www.youtube.com/playlist?list=PLIAO2T5dSfa225c8mTbPg3MIkhvk2ALgN) by [Binance Academy](https://www.youtube.com/c/BinanceAcademy) ( _video_ ) ( _non-technical_ )
+- [Educational Guides](https://www.youtube.com/playlist?list=PLk1ALX7IOH_npyk1W_88gxTDpTEfZg_Og) by [Coin Bureau](https://www.youtube.com/c/CoinBureau) ( _video_ )
+- [The Complete Beginner's Crypto Crash Course](https://www.youtube.com/playlist?list=PLU52pNodXIGdM6XDgHVG7DsPytlsrR_6b) by [99Bitcoins](https://www.youtube.com/c/Bitcoinwithpaypal) ( _video_ )
+- [Blockchain & Crypto 101](https://www.youtube.com/playlist?list=PLIAO2T5dSfa225c8mTbPg3MIkhvk2ALgN) by [Binance Academy](https://www.youtube.com/c/BinanceAcademy) ( _video_ )
 - :star: [Blockchain career advice](https://www.youtube.com/playlist?list=PLbbtODcOYIoHRL3rH6JjqxaqcjQ0uwe9e) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks) ( _video_ ) ( _practical_ )
 - [Blockchain Технологии](https://www.youtube.com/playlist?list=PLMPkGmaSnfyqvwI0Up4uaq48UQ4mnzlPj) by [CryptoInside](https://www.youtube.com/c/CryptoInsideClub) ( _video_ ) ( _theoretical_ ) ( _non-eng_ )
-- [Погружение в крипту за 7 дней](https://www.youtube.com/playlist?list=PLsJDzAldPQJSNRfN3RKEf4GDcpnDksnIP) by [Incrypted](https://www.youtube.com/c/Incryptednet) ( _video_ ) ( _non-technical_ )
-- [Online-курс по Blockchain](https://www.youtube.com/watch?v=WBf8FZjPPqw&list=PLhZQuknA7yUBt82ow8rEfw_G8tNZjt3qB) by [Distributed Lab](https://www.youtube.com/channel/UCAKVZKVgINgKAwmAeyojMaw) ( _video_ ) ( _non-technical_ )
-- [Курс по Блокчейн](https://www.youtube.com/watch?v=p1tWUCSQNf0&list=PLys0IdlMg6XdMv4sP3UyGBovR5WhQqaM4) by [МФТИ](https://www.youtube.com/channel/UCZ-sv20iKVXtQVR4epbmz8A) ( _video_ ) ( _non-technical_ ) ( _technical_ )
-- [Blockchain and Money](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/index.htm) by [MIT](https://ocw.mit.edu/) ( _video_ ) ( _non-technical_ )
-- [Blockchain and Money - русская озвучка](https://www.youtube.com/watch?v=pZxp--SpWF8&list=PLDTlYmDW7oIgx1WrpkEAkrQVF-hvdConK) by [MIT - Cryptus](https://www.youtube.com/channel/UCGzOtu1tlrOeq_-jXzV-Fng) ( _video_ ) ( _non-technical_ ) ( _technical_ )
+- [Погружение в крипту за 7 дней](https://www.youtube.com/playlist?list=PLsJDzAldPQJSNRfN3RKEf4GDcpnDksnIP) by [Incrypted](https://www.youtube.com/c/Incryptednet) ( _video_ )
 
 ## Introductory articles
 
@@ -89,7 +89,8 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 - [WTF is The Blockchain?](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348) by [Mohit Mamoria](https://hackernoon.com/u/mohitmamoria) ( _reading_ ) ( _non-technical_ )
 - [Blockchain for 2018 and Beyond: A (growing) list of blockchain use cases](https://medium.com/fluree/blockchain-for-2018-and-beyond-a-growing-list-of-blockchain-use-cases-37db7c19fb99) by [Kevin Doubleday](https://medium.com/@kdoubleday) ( _reading_ ) ( _non-technical_ )
 - :star: [Learn Blockchain: The COMPLETE beginner’s guide](https://www.youtube.com/watch?v=99pYGpTWcXM) by [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ) ( _video_ ) ( _technical_ ) ( _theoretical_ )
-- :star: [Blockchain Tutorial for Beginners | Build a DeFi App](https://www.youtube.com/watch?v=CgXQC4dbGUE) by [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ) ( _video_ ) ( _technical_ ) ( _practical_ )
+- :star: [Build a DeFi App](https://www.youtube.com/watch?v=CgXQC4dbGUE) by [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ) ( _video_ ) ( _technical_ ) ( _practical_ )
+- [Bitcoin protocol](https://en.bitcoin.it/wiki/Protocol_documentation) by [bitcoin.it](https://bitcoin.it) ( _video_ ) ( _technical_ )
 
 ## Build your own Blockchain
 
