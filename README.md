@@ -53,10 +53,10 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 - :star: [DeFi Programming Course](https://www.youtube.com/playlist?list=PLbbtODcOYIoGC8c5-gs0EYzpYVUPdmqO3) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks) ( _video_ ) ( _practical_ )
 - [Web3 Tutorial](https://www.youtube.com/playlist?list=PLbbtODcOYIoFs0PDlTdxpEsZiyDR2q9aA) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks) ( _video_ ) ( _practical_ )
 - [Solidity Tutorial](https://www.youtube.com/playlist?list=PLbbtODcOYIoE0D6fschNU4rqtGFRpk3ea) by [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks) ( _video_ ) ( _practical_ )
-- [Online-курс по Blockchain](https://www.youtube.com/playlist?list=PLhZQuknA7yUBt82ow8rEfw_G8tNZjt3qB) by [Distributed Lab](https://www.youtube.com/channel/UCAKVZKVgINgKAwmAeyojMaw) ( _video_ ) ( _non-eng_ )
-- [Курс по Блокчейн](https://www.youtube.com/playlist?list=PLys0IdlMg6XdMv4sP3UyGBovR5WhQqaM4) by [МФТИ](https://www.youtube.com/channel/UCZ-sv20iKVXtQVR4epbmz8A) ( _video_ ) ( _non-eng_ )
-- [Blockchain and Money](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/index.htm) by [MIT](https://ocw.mit.edu/) ( _video_ )
-- [Blockchain and Money - русская озвучка](https://www.youtube.com/playlist?list=PLDTlYmDW7oIgx1WrpkEAkrQVF-hvdConK) by [MIT - Cryptus](https://www.youtube.com/channel/UCGzOtu1tlrOeq_-jXzV-Fng) ( _video_ ) ( _non-eng_ )
+- [Online-курс по Blockchain](https://www.youtube.com/playlist?list=PLhZQuknA7yUBt82ow8rEfw_G8tNZjt3qB) by [Distributed Lab](https://www.youtube.com/channel/UCAKVZKVgINgKAwmAeyojMaw) ( _video_ ) ( _theoretical_ ) ( _non-eng_ )
+- [Курс по Блокчейн](https://www.youtube.com/playlist?list=PLys0IdlMg6XdMv4sP3UyGBovR5WhQqaM4) by [МФТИ](https://www.youtube.com/channel/UCZ-sv20iKVXtQVR4epbmz8A) ( _video_ ) ( _theoretical_ ) ( _non-eng_ )
+- [Blockchain and Money](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/index.htm) by [MIT](https://ocw.mit.edu/) ( _video_ ) ( _theoretical_ )
+- [Blockchain and Money - русская озвучка](https://www.youtube.com/playlist?list=PLDTlYmDW7oIgx1WrpkEAkrQVF-hvdConK) by [MIT - Cryptus](https://www.youtube.com/channel/UCGzOtu1tlrOeq_-jXzV-Fng) ( _video_ ) ( _theoretical_ ) ( _non-eng_ )
 
 ## Courses with certification
 
