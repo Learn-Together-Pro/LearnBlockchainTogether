@@ -2,7 +2,7 @@
 
 ![Rust](./asset/application_of_blockchain_2.png)
 
-Curated collection of lists of useful mostly free resources to learn Blockchain together.
+Curated collection of lists of useful free resources to learn Blockchain together.
 
 ## Content
 
@@ -92,6 +92,7 @@ Curated collection of lists of useful mostly free resources to learn Blockchain 
 - :star: [Learn Blockchain: The COMPLETE beginner’s guide](https://www.youtube.com/watch?v=99pYGpTWcXM) by [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ) ( _video_ ) ( _technical_ ) ( _theoretical_ )
 - :star: [Build a DeFi App](https://www.youtube.com/watch?v=CgXQC4dbGUE) by [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ) ( _video_ ) ( _technical_ ) ( _practical_ )
 - [Bitcoin protocol](https://en.bitcoin.it/wiki/Protocol_documentation) by [bitcoin.it](https://bitcoin.it) ( _video_ ) ( _technical_ )
+- :star: [Solidity Tutorial](https://www.youtube.com/watch?v=ipwxYa-F1uY) by [Free Code Camp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) ( _video_ ) ( _technical_ ) ( _practical_ )
 
 ## Build your own Blockchain
 
